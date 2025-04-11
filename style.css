@@ -1,0 +1,252 @@
+/*.main {*/
+/*    background-color: wheat;*/
+/*}*/
+.text {
+    color: lightgray;
+    margin: 50px 0 10px 0;
+    font-size: 20px;
+}
+.border70 {
+    border-radius: 5px;
+    height: 100px;
+    width: 350px;
+    background-color: mediumturquoise;
+    position: relative;
+    float: left;
+}
+.primary70 {
+    color: white;
+    margin-left: 10px;
+    position: absolute;
+    width: auto;
+    height: auto;
+    top: 70%;
+}
+.borderSec {
+    border-radius: 5px;
+    height: 100px;
+    width: 200px;
+    background-color: gold;
+    position: relative;
+    float: left;
+    margin-left: 20px;
+}
+.secondary {
+    margin-left: 10px;
+    position: absolute;
+    width: auto;
+    height: auto;
+    top: 70%;
+}
+.borderPrim40 {
+    border-radius: 5px;
+    height: 100px;
+    width: 200px;
+    background-color: pink;
+    position: relative;
+    float: left;
+}
+.primary40 {
+    color: white;
+    margin-left: 10px;
+    position: absolute;
+    width: auto;
+    height: auto;
+    top: 70%;
+}
+.borderPrim60 {
+    border-radius: 5px;
+    height: 100px;
+    width: 200px;
+    background-color: salmon;
+    position: relative;
+    float: left;
+    margin-left: 20px;
+}
+.primary60 {
+    color: white;
+    margin-left: 10px;
+    position: absolute;
+    width: auto;
+    height: auto;
+    top: 70%;
+}
+.borderPrim80 {
+    border-radius: 5px;
+    height: 100px;
+    width: 200px;
+    background-color: brown;
+    position: relative;
+    float: left;
+    margin-left: 20px;
+}
+.primary80 {
+    color: white;
+    margin-left: 10px;
+    position: absolute;
+    width: auto;
+    height: auto;
+    top: 70%;
+}
+.borderPrim100 {
+    border-radius: 5px;
+    height: 100px;
+    width: 200px;
+    background-color: darkred;
+    position: relative;
+    float: left;
+    margin-left: 20px;
+}
+.primary100 {
+    color: white;
+    margin-left: 10px;
+    position: absolute;
+    width: auto;
+    height: auto;
+    top: 70%;
+}
+.borderBlack90 {
+    border-radius: 5px;
+    height: 100px;
+    width: 200px;
+    background-color: black;
+    position: relative;
+    float: left;
+}
+.black90 {
+    color: white;
+    margin-left: 10px;
+    position: absolute;
+    width: auto;
+    height: auto;
+    top: 70%;
+}
+.borderBlack60 {
+    border-radius: 5px;
+    height: 100px;
+    width: 200px;
+    background-color: darkgrey;
+    position: relative;
+    float: left;
+    margin-left: 20px;
+}
+.black60 {
+    color: white;
+    margin-left: 10px;
+    position: absolute;
+    width: auto;
+    height: auto;
+    top: 70%;
+}
+.borderBlack30 {
+    border-radius: 5px;
+    height: 100px;
+    width: 200px;
+    background-color: gainsboro;
+    position: relative;
+    float: left;
+    margin-left: 20px;
+}
+.black30 {
+    color: white;
+    margin-left: 10px;
+    position: absolute;
+    width: auto;
+    height: auto;
+    top: 70%;
+}
+.borderWhite90 {
+    border-radius: 5px;
+    height: 100px;
+    width: 200px;
+    background-color: white;
+    position: relative;
+    float: left;
+    margin-left: 20px;
+}
+.white90 {
+    margin-left: 10px;
+    position: absolute;
+    width: auto;
+    height: auto;
+    top: 70%;
+}
+.borderWhite60 {
+    border-radius: 5px;
+    height: 100px;
+    width: 200px;
+    background-color: rgb(255, 253, 255);
+    position: relative;
+    float: left;
+    margin-left: 20px;
+}
+.white60 {
+    margin-left: 10px;
+    position: absolute;
+    width: auto;
+    height: auto;
+    top: 70%;
+}
+.borderWhite30 {
+    border-radius: 5px;
+    height: 100px;
+    width: 200px;
+    background-color: rgb(255, 252, 255);
+    position: relative;
+    float: left;
+    margin-left: 20px;
+}
+.white30 {
+    margin-left: 10px;
+    position: absolute;
+    width: auto;
+    height: auto;
+    top: 70%;
+}
+.borderEror {
+    border-radius: 5px;
+    height: 100px;
+    width: 200px;
+    background-color: hotpink;
+    position: relative;
+    float: left;
+}
+.eror {
+    margin-left: 10px;
+    position: absolute;
+    width: auto;
+    height: auto;
+    top: 70%;
+}
+.borderWarming {
+    border-radius: 5px;
+    height: 100px;
+    width: 200px;
+    background-color: blueviolet;
+    position: relative;
+    float: left;
+    margin-left: 20px;
+}
+.warming {
+    margin-left: 10px;
+    position: absolute;
+    width: auto;
+    height: auto;
+    top: 70%;
+}
+.borderSuccess {
+    border-radius: 5px;
+    height: 100px;
+    width: 200px;
+    background-color: turquoise;
+    position: relative;
+    float: left;
+    margin-left: 20px;
+}
+.success {
+    margin-left: 10px;
+    position: absolute;
+    width: auto;
+    height: auto;
+    top: 70%;
+}
